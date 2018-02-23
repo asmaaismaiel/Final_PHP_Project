@@ -14,7 +14,7 @@ Database and all of Admin pages(Main folder:myAdminPages that contains 4 folders
 (myUsers,myCategories,myPosts,my Comments) and smproject.sql file)
 
 Seham Samy(Active record and show posts)
-Aya Nabil(Design and see all posts plus login and registeration with validation)
+Aya Nabil(Add Post , delete post,Design and see all posts plus login and registeration with validation)
 Alaa Diab(Design , EditProfileand see a single post page)
 
 And all of cooperated each other in the project and worked as a team.
